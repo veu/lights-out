@@ -2,7 +2,7 @@
 
 Play the game [Lights Out](https://en.wikipedia.org/wiki/Lights_Out_(game)) in just 230b of (convoluted) HTML and JavaScript.
 
-* [Play the game](http://lights-out.monometric.net/?1010101010101010101010101)
+* [Play the game](http://lights-out.monometric.net)
 * [See the source](https://github.com/veu/lights-out/blob/main/index.html)
 
 ## How to play
