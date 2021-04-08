@@ -11,7 +11,7 @@ Clicking a light toggles it and its neighbors from on to off and vice versa. The
 
 ## Features
 
-* Loads the initial state directly from the URL. [Example 1](http://lights-out.monometric.net/?1101110101011101010111011) [Example 2](http://lights-out.monometric.net/?0100011100010100011100010) [Example 3](http://lights-out.monometric.net/?0100010100010100010100010)
+* Loads the initial state directly from the URL. [Example 1](http://lights-out.monometric.net/?0010001010100010101000100) [Example 2](http://lights-out.monometric.net/?1011100011101011100011101) [Example 3](http://lights-out.monometric.net/?1011101011101011101011101)
 * Plays fancy two frame animation when you‘ve won the game
 * Let‘s you undo any move by pressing your browser‘s back button
 
